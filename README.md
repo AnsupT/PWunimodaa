@@ -1,2 +1,2 @@
 # PWunimoda
-pagnia web venta de ropa 
+pagina web venta de ropa 
